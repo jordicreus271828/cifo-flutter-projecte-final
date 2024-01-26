@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679439602076",
+    "project_id": "compulsilina",
+    "storage_bucket": "compulsilina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679439602076:android:d25cf4f12dea65d69a7859",
+        "android_client_info": {
+          "package_name": "com.ishtar31415927.compulsilina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUk_Z-AWN7lKbzUwatikFO1P_P2jOVyTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
