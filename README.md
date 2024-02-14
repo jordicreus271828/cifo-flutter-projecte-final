@@ -1,16 +1,26 @@
-# compulsilina
+# Curs de Desenvolupament d’Aplicacions mòbils per iOS i Android amb Flutter
 
-App to help OCD sufferers fight their disorder
+CIFO L'Hospitalet de Llobregat, 2023
 
-## Getting Started
+## Projecte - Arquitectura d'aplicacions mòbils amb Flutter
 
-This project is a starting point for a Flutter application.
+Compulsilina, el teu ajudant digital en el tractament contra el TOC
 
-A few resources to get you started if this is your first Flutter project:
+App per ajudar les persones afectades pel TOC a lluitar contra el seu trastorn
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20240125_202011.png](/screenshots/scaled/Screenshot_20240125_202011.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240125_202245.png](/screenshots/scaled/Screenshot_20240125_202245.png)
+
+![Screenshot_20240125_202303.png](/screenshots/scaled/Screenshot_20240125_202303.png)
+
+![Screenshot_20240125_202328.png](/screenshots/scaled/Screenshot_20240125_202328.png)
+
+![Screenshot_20240125_202502.png](/screenshots/scaled/Screenshot_20240125_202502.png)
+
+![Screenshot_20240125_203056.png](/screenshots/scaled/Screenshot_20240125_203056.png)
+
+![Screenshot_20240125_203627.png](/screenshots/scaled/Screenshot_20240125_203627.png)
+
+Més captures de pantalla a [/screenshots/scaled](/screenshots/scaled).
+
